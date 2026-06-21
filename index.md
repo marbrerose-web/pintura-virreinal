@@ -3,17 +3,6 @@ layout: index
 title: Home
 ---
 
-{% assign lang = site.data.languages[site.telar_language] | default: site.data.languages.en %}
-<!--
-  EN: Default welcome content for this page comes from your language
-  pack (lang.index_page.welcome in _data/languages/<telar_language>.yml).
-  To replace it with your own, delete the line that follows and write
-  your welcome content here in markdown.
+Este sitio propone una lectura guiada de una pintura virreinal a través de tres rutas: figuras y gestos, modelos iconográficos e inscripciones. Cada recorrido enseña a observar detalles específicos para comprender cómo la imagen produce sentido.
 
-  ES: El contenido de bienvenida predeterminado de esta página viene
-  del paquete de idioma (lang.index_page.welcome en _data/languages/<telar_language>.yml).
-  Para reemplazarlo con el tuyo, borra la línea que sigue y escribe
-  tu contenido de bienvenida aquí en markdown.
--->
-
-{{ lang.index_page.welcome | markdownify }}
+Comienza por la Ruta A para reconocer a los personajes y sus gestos. Después sigue la Ruta B para descubrir los modelos visuales que inspiraron la composición. Finalmente, entra a la Ruta C para leer las inscripciones y comprender su sentido devocional.
