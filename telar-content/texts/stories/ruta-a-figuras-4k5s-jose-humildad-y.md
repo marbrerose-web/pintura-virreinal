@@ -2,6 +2,6 @@
 title: "José: humildad y aceptación"
 ---
 
-José cruza las manos sobre el pecho e inclina la cabeza hacia el Niño. El gesto expresa humildad, recogimiento y aceptación de la voluntad divina.
+José cruza las manos sobre el pecho e inclina la cabeza hacia el Niño Jesús. Su gesto expresa  recogimiento, humildad y aceptación de la voluntad divina. Su postura sugiere que participa en la escena desde la contemplación y la entrega. 
 
-Su postura muestra que participa en la escena desde la contemplación y la entrega. En la siguiente ruta podrás descubrir que este gesto y otros elementos de la pintura proceden de modelos visuales que circularon mediante grabados.
+En la ruta "Modelos iconográficos" descubrirás que el significado este gesto procede de una fuente visuale que circuló de forma impresa.

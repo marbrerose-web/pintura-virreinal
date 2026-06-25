@@ -1,8 +1,12 @@
 ---
 layout: index
 title: Home
+stories_heading: "Recorridos"
+objects_heading: "Explora los objetos detrás de los recorridos"
 ---
 
-Este sitio propone una lectura guiada de una pintura virreinal a través de tres rutas: figuras y gestos, modelos iconográficos e inscripciones. Cada recorrido enseña a observar detalles específicos para comprender cómo la imagen produce sentido.
+![El Niño Jesús dormido, la Virgen María, San José y San Juan Bautista niño]()
 
-Comienza por la Ruta A para reconocer a los personajes y sus gestos. Después sigue la Ruta B para descubrir los modelos visuales que inspiraron la composición. Finalmente, entra a la Ruta C para leer las inscripciones y comprender su sentido devocional.
+Esta pintura puede leerse de varias maneras. Este sitio propone tres rutas para observar sus figuras, reconocer los modelos visuales que la inspiran, descifrar sus inscripciones y así entender el significado de la obra.
+
+Elige un recorrido y comienza a mirar de cerca.

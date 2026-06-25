@@ -1,5 +1,5 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
-0,ruta-a-figuras-4k5s,Ruta A. Figuras y gestos,Mira cómo el silencio hace que los gestos hablen,,,yes
-1,ruta-b-modelos-hqvy,Ruta B. Modelos iconográficos,Descubre las imágenes que viajaron y se transformaron en esta pintura,,,yes
-2,ruta-c-inscripciones-bt9f,Ruta C. Inscripciones,Lee las palabras que orientan el sentido de la pintura,,,yes
+0,ruta-a-figuras-4k5s,Figuras y gestos,Descubre cómo los cuerpos y los gestos hacen hablar a la imagen.,,,yes
+1,ruta-b-modelos-hqvy,Modelos iconográficos,Compara esta pintura con imágenes que viajaron desde Europa.,,,yes
+2,ruta-c-inscripciones-bt9f,Inscripciones,Lee las palabras que revelan el sentido espiritual de la pintura,,,yes
