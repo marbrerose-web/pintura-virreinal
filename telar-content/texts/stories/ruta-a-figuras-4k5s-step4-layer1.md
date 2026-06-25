@@ -1,0 +1,1 @@
+El gesto de los dedos lleva la mirada hacia las dos figuras infantiles colocadas frente a la cuna florida. Su unión representa un vínculo amoroso, fuerte y duradero. Si quieres entender mejor la profundidad de esta unión sigue adelante con el recorrido.
