@@ -1,3 +1,3 @@
-Pintada al óleo sobre una lámina de cobre, la obra tiene un brillo particular. Su formato pequeño, de aproximadamente 33 x 28 centímetros, invita a acercarse y examinar los detalles.
+Pintada al óleo sobre una lámina de cobre por un pintor no identificado, esta obra del siglo XVIII tiene un brillo particular. Su formato pequeño, de aproximadamente 33 centímetros de alto por 28  de ancho, invita a acercarse y examinar los detalles.
 
-Los personajes, las inscripciones y las flores forman una escena que es más compleja de lo que parece. Cada paso de esta ruta permitirá detener la mirada en los diferentes elementos de la pintura y entender su significado.
+Los personajes, las inscripciones y las flores forman una escena que es más compleja de lo que parece. Cada paso de este recorrido te permitirá detener la mirada en los diferentes elementos que componen la componen y entender por qué están ahí.
