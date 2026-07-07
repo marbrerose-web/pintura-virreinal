@@ -3,7 +3,7 @@
 
 # Site Settings
 title: "Los secretos de la pintura virreinal"
-description: "Una guía en tres recorridos para descubrir figuras, modelos e inscripciones y entender su significado"
+description: ""
 url: "https://marbrerose-web.github.io"
 baseurl: "/pintura-virreinal"
 author: "Carolina Sacristán Ramírez"
@@ -11,7 +11,7 @@ email: ""
 telar_theme: "neogranadina"
 logo: ""
 telar_language: es
-collection_mode: false
+collection_mode: true
 
 # Story Interface Settings
 story_interface:
