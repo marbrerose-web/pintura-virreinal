@@ -2,7 +2,7 @@
 title: "Escuchar el sueño"
 ---
 
-El sueño del Niño Jesús también podía ser imaginado desde la música. En el villancico **Si el Amor se quedare dormido**, Juan de Araujo musicalizó un texto de arrullo en el que el Niño duerme y vela al mismo tiempo.
+El sueño del Niño Jesús también se imaginó desde la música. En el villancico **Si el Amor se quedare dormido**, Juan de Araujo musicalizó un texto de arrullo en el que el Niño duerme y vela al mismo tiempo.
 
 ![Si el Amor se quedare dormido](https://marbrerose-web.github.io/pintura-virreinal/iiif/objects/si-el-amor/si-el-amor.jpg)
 _Juan de Araujo, Si el Amor se quedare dormido, Archivo y Biblioteca Nacionales de Bolivia, Música 156._

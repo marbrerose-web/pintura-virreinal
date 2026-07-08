@@ -6,5 +6,5 @@ María mira al Niño Jesús y junta las manos frente al pecho. Las puntas de sus
 
 ![La Virgen en oración](https://marbrerose-web.github.io/pintura-virreinal/iiif/objects/lavirgenenoracionquintenmassys/lavirgenenoracionquintenmassys.jpg)
 _Quinten Massys, La Virgen en oración, hacia 1529, Museo del Prado._
-_
+
 La imagen de la Virgen con las manos en actitud oración se volvió también frecuente en la pintura virreinal. Dirige ahora la mirada hacia las manos de José. Su gesto expresa otra forma de contemplar a Jesús.
